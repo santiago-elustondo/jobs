@@ -1,0 +1,296 @@
+---
+personal_info:
+  name: Santiago Elustondo
+  title: Developer / Architect / Consultant
+  summary: Experienced full-stack technical lead with focus on AI-driven solutions
+  contact:
+    email: santi@blastengine.ai
+    phone: "(416) 662-8602"
+    location: Toronto (East York)
+    github: santiago-elustondo
+    company: blast-engine
+
+engineering_philosophy:
+  - title: Stateless, Serializable & Immutable Artifacts
+    description: Simplify tests, support horizontal scaling, generate content-rich logs, and facilitate runtime debugging
+  
+  - title: Strict Compositional TypeScript
+    description: Applied at the framework layer to accelerate time-to-market, maintain architectural integrity, improve developer confidence, and support complex AI-assisted code generation
+  
+  - title: Context-Tuned AI Developer Tooling
+    description: Leverages context-aware AI for intelligent code generation, PR review augmentation, and inline documentation systems designed for architectural consistency
+  
+  - title: Cloud-Native Design Patterns
+    description: Resilient, adaptable systems with strong observability and controllability characteristics
+  
+  - title: Isomorphic Applications
+    description: Type-safe integration, unified event streams, and centralized business logic across client and server
+  
+  - title: Targeted Multi-Level Test Suites
+    description: Focused on clarity, maintainability, and documentary value, using definitive shared mocks aligned with the system's actual interfaces
+  
+  - title: In-Code Dev & Cloud Ops
+    description: Captures full-stack system definition in code, enabling rapid experimental branching and continuous improvement
+
+technical_skills:
+  languages:
+    - TypeScript
+    - JavaScript
+    - PHP
+    - SQL
+  
+  frontend:
+    - React
+    - Next.js
+    - Angular
+    - Vue.js
+    - Redux
+    - Tailwind
+    - Storybook
+    - Webpack
+  
+  backend:
+    - Node.js
+    - NestJS
+    - Express
+    - Koa
+    - GraphQL
+    - Socket.io
+    - Serverless Functions
+  
+  databases:
+    - PostgreSQL
+    - MongoDB
+    - MySQL
+    - Redis
+    - SQL Server
+  
+  cloud_platforms:
+    - AWS
+    - GCP
+    - Azure
+  
+  devops_tools:
+    - Docker
+    - Kubernetes
+    - Terraform
+    - Ansible
+    - Chef
+    - Jenkins
+    - GitHub Actions
+    - CircleCI
+    - OpenShift
+    - Rancher
+  
+  testing_tools:
+    - Jest
+    - Mocha
+    - Cypress
+    - Playwright
+    - Selenium
+    - k6
+    - Mabl
+  
+  monitoring_tools:
+    - Splunk
+    - Grafana
+    - Sentry
+    - AppDynamics
+    - Dynatrace
+  
+  ai_ml_tools:
+    - TensorFlow.js
+    - OpenAI
+    - DataRobot
+    - OpenCV
+    - Dlib
+    - SpaCy
+    - MonkeyLearn
+    - Tabnine
+    - CodeGuru
+    - DeepCode
+  
+  other_tools:
+    - Sanity
+    - Kafka
+    - WebRTC
+    - Mintlify
+    - Launchable
+    - Codacy
+    - Unity
+    - WordPress
+    - Zapier
+    - HubSpot
+    - NetSuite
+    - Shopify
+
+experience:
+  - company: Oralinx
+    positions:
+      - title: Technical Solutions Architect
+        duration: May 2024 – Jan 2025 (9 months)
+        location: Toronto, Ontario, Canada
+        type: consulting
+        technologies: [react, github-actions, openai, typescript, cloud-functions, node]
+        responsibilities:
+          - Built multi-tenant SaaS for integration workflows across CRMs, CMSs, and business-ops services (Shopify, HubSpot, NetSuite, Zapier)
+          - Consulted on operational flow, integration needs, and metrics
+          - Extended Integration Hub capabilities, extracted insights, and authored documentation
+      
+      - title: Technical Consultant
+        duration: Aug 2024 – Present
+        type: consulting
+        technologies: [react, github-actions, openai, typescript, cloud-functions, node]
+        note: Overlapping role with Technical Solutions Architect
+  
+  - company: Conexis.io
+    positions:
+      - title: Technical Lead / Engineering Consultant
+        duration: Jan 2024 – May 2024 (5 months)
+        technologies: [typescript, nestjs, react, redux, graphql, apollo, postgresql]
+        responsibilities:
+          - Coordinated offshore dev teams and local BD teams to align requirements and estimations
+          - Supported hiring, candidate evaluation, and technical planning
+          - Built SSO with Azure AD, reporting tools, and vendor integrations
+  
+  - company: Rangle.io
+    total_tenure: 1 yr 1 mo (plus previous stint 1 yr 7 mos)
+    location: Toronto, Ontario, Canada (Hybrid)
+    positions:
+      - title: Technical Director, Developer Experience
+        duration: Jun 2023 – Dec 2023 (7 months)
+        technologies: [k6, next.js, nestjs, react, angular, vue.js, typescript, aws, gcp, kubernetes, docker, ci/cd]
+        responsibilities:
+          - Directed initiatives in R&I, capability strategy, and client project support
+          - Designed scalable systems across major JS frameworks
+          - Managed AWS/GCP deployments using Kubernetes, Docker, and CI/CD pipelines
+        major_engagements:
+          - "Momentive: Digital experience platform with AI-driven analytics"
+          - "MoveBuddy: Next.js/AWS marketplace with AI-based service matching"
+          - "JetBlue: Angular modernization with AI personalization"
+      
+      - title: Technical Director
+        duration: Dec 2022 – Jun 2023 (7 months)
+        technologies: [k6, next.js, nestjs, react, angular, vue.js, typescript, aws, gcp, kubernetes, docker, ci/cd]
+      
+      - title: Software Developer / Consultant
+        duration: Apr 2017 – Oct 2018 (1 yr 7 mos)
+        location: Greater Toronto Area, Canada
+        technologies: [react, node, redux, mongo, typescript, lerna, graphql, angular, dom-service-workers, circle-ci]
+        summary: Full-stack JavaScript developer on agile teams delivering modernization and greenfield work
+        key_projects:
+          - name: Augury (Angular DevTools)
+            description: Co-developed open-source profiling toolkit, designed and implemented a lean, extensible JS engine and profiling plugins
+          - name: Vitamin Shoppe
+            description: AngularJS to Angular 4 migration support
+          - name: KagenAir
+            description: WebRTC performance audit and bottleneck resolution on AngularJS + Cordova mobile app
+          - name: Atlas Resourcing Portal
+            description: Feature development and stakeholder-facing investigation/estimation on React/Redux/Node/Mongo staffing portal
+  
+  - company: lululemon
+    positions:
+      - title: Engineering Lead / Lead Engineer
+        duration: Dec 2021 – Dec 2022 (1 yr 1 mo)
+        technologies: [react, next.js, node, github-actions, aws, terraform]
+        responsibilities:
+          - Built and supported tooling and features across the company's app ecosystem
+          - Collaborated across many stakeholder groups, engineering teams, and repositories
+  
+  - company: Vaco
+    total_tenure: 1 yr 9 mos
+    location: Toronto, Ontario, Canada
+    positions:
+      - title: Director, Technical Solution Delivery
+        duration: May 2021 – Jan 2022 (9 months)
+        technologies: [gcp-networking, terraform, k6, typescript, gcp-pubsub, gcp, socket.io, redux, mongo, redis]
+        responsibilities:
+          - Led consulting assessments, solution design, hiring pipelines, and technical delivery
+          - Directed global enterprise communication suite (Avaya Spaces)
+          - Managed requirements, KPIs, roadmaps, and team support
+        summary: Leads and supports assessment, discovery, and delivery for consulting engagements; works with recruiting to assemble teams and supports projects both technically and organizationally
+      
+      - title: Technical Lead
+        duration: Jul 2020 – May 2021 (11 months)
+        summary: Technical lead on a 5-developer agile team delivering the globally distributed Avaya Spaces communication/collaboration suite
+  
+  - company: Avanade
+    total_tenure: 1 yr 10 mos
+    location: Toronto, Ontario, Canada
+    positions:
+      - title: Technical Lead (Sr. Consultant, Technical Lead)
+        duration: Nov 2019 – Jul 2020 (9 months)
+        technologies: [angular, typescript, sql-server, azure, mocha, node, jest, microservices, aws, graphql, .net, docker, jenkins, redis, openshift, mongo, selenium]
+        responsibilities:
+          - Led agile delivery teams; managed escalations and architectural alignment
+          - Built horizontally-scaling NodeJS microservices for Telus MyWifi
+          - Performance audits and core library improvements for Mortgage Cadence Platform
+          - Delivered multi-day training on performance optimization for Angular/React
+        summary: Leads an agile delivery team (4–6 devs, 2 QA, 1 Scrum Master) in technical planning and implementation, handling technical escalations and translating requirements into scalable solutions
+      
+      - title: Senior Consultant / Sr. Software Consultant
+        duration: Oct 2018 – Nov 2019 (1 yr 2 mos)
+        location: Toronto, Ontario, Canada
+        summary: Senior consultant specializing in full-stack JavaScript solutions
+  
+  - company: Appliance Info
+    positions:
+      - title: Developer / Lead Developer
+        duration: Jun 2016 – Apr 2017 (11 months)
+        location: Toronto
+        technologies: [gcp, redux, mongo, graphql, angular2, node, firebase, typescript]
+        responsibilities:
+          - Led small team building SaaS for appliance retail operations
+          - Conducted interviews, training, roadmap planning, and implementation
+        summary: Leads an agile product development team building business software (Build Specifier SaaS)
+        team_responsibilities:
+          - Translating business needs into feature priorities with CEO/peers
+          - Hands-on development
+          - Leading a 2–5 person dev team
+          - Training and supporting new developers and participating in hiring
+  
+  - company: Influicity
+    positions:
+      - title: Full-Stack Developer
+        duration: Mar 2015 – Jun 2016 (1 yr 4 mos)
+        technologies: [react, php, mysql]
+        responsibilities:
+          - Built platform connecting influencers and marketers, covering networking → content review → analytics
+        summary: Full-stack development on a platform connecting social media influencers with marketers, streamlining workflows from discovery and content review through analytics
+  
+  - company: The Cube School of Technology
+    positions:
+      - title: Programming Instructor
+        duration: Jan 2016 – May 2016 (5 months)
+        technologies: [react, node, ecmascript, unity]
+        responsibilities:
+          - Taught React, JavaScript, and game development
+          - Developed course material and engaged with prospective students
+        courses: [ReactJS, JavaScript, Game Development]
+  
+  - company: Elephant Space
+    positions:
+      - title: Developer
+        duration: Apr 2014 – Mar 2015 (11 months)
+        technologies: [react, php, mysql, sass, wordpress]
+        responsibilities:
+          - Led development across Wordpress/React platform for a nonprofit youth program
+          - Platform development, coordination with board and media team
+          - Solution design and implementation for broader technology needs
+        summary: Leads development teams building and maintaining a custom WordPress + React platform for a youth-focused non-profit providing drop-in games-based after-school programs
+  
+  - company: George Brown College
+    positions:
+      - title: Supplemental Tutor (Advanced Web Programming)
+        duration: Apr 2013 – Mar 2014 (1 yr)
+        type: part-time
+        summary: Supplemental tutor for advanced web programming courses, providing one-on-one and small-group instruction in JavaScript and related technologies
+  
+  - company: KPDI
+    positions:
+      - title: Developer / Web Developer
+        duration: May 2013 – Sep 2013 (5 months)
+        type: intern
+        technologies: [wordpress]
+        responsibilities:
+          - Wordpress development for digital initiatives
