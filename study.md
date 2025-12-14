@@ -1,0 +1,4 @@
+- postgres
+- mongo
+- kubernetes
+- aws/gcp/azure (terraform/script-style)
