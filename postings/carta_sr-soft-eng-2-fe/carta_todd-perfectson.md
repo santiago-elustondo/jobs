@@ -8,7 +8,7 @@ Citizenship: Canada • Open to Remote/Hybrid (North America)
 
 ## Professional Profile
 
-Platform-focused frontend engineer with 9+ years of experience designing and scaling frontend foundations for large engineering organizations. Specializes in monorepo architecture, React infrastructure, bundler/toolchain optimization, and developer experience at scale. Has led platform-level initiatives that improved build times, page performance, dependency hygiene, and CI/CD stability for hundreds of engineers. Comfortable operating as an internal “product team” for engineers, defining roadmaps, aligning stakeholders, and delivering global improvements that raise engineering velocity and code quality across the company. Pragmatic, data-driven, and opinionated about modern React paradigms, typed frontends, and AI-assisted development workflows.
+Platform-focused frontend engineer with 9+ years of experience designing and **scaling frontend foundations for large engineering organizations**. Specializes in **monorepo architecture**, **React infrastructure**, **bundler/toolchain optimization**, and **developer experience** at scale. Has led platform-level initiatives that improved build times, page performance, dependency hygiene, and CI/CD stability for hundreds of engineers. Comfortable operating as an internal “product team” for engineers, defining roadmaps, aligning stakeholders, and delivering global improvements that raise engineering velocity and code quality across the company. Pragmatic, data-driven, and opinionated about modern React paradigms, typed frontends, and AI-assisted development workflows.
 
 ---
 

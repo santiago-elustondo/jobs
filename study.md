@@ -2,3 +2,5 @@
 - mongo
 - kubernetes
 - aws/gcp/azure (terraform/script-style)
+- TanStack
+- apollo client/server
