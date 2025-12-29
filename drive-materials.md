@@ -1,0 +1,49 @@
+- **template** [cv-template](https://docs.google.com/document/d/1shs3S8hkwCwKzMFgZszckmgPGLeZ1HLkKjrG2hWK2Uc)
+- **80** sector-growth
+  - [notes-0](https://docs.google.com/document/d/1ZOelSgBM_o-2IzpU_VjZwEHmx5Q25QH7wpys7G5aW94)
+  - [notes-1](https://docs.google.com/document/d/1BjODPV3W5AtaQ5lzHnIpQGGKLgk7yBQVg7ZfRppt1D0)
+  - [notes-2](https://docs.google.com/document/d/1rfLejNg1ohH62e0gJ6Yc6swRJH3R0OebBitTB30C9cU)
+- **50** conexis
+  - [notes-0](https://docs.google.com/document/d/1_9uoBWxSraOgCaE7Q2eqaAjvONHSWVJkQsiQMMTw8i8)
+  - [notes-1](https://docs.google.com/document/d/1YrtTKOoT_NQLh955JjWMsV0nG-epjiyzlXaTpST66PE)
+  - [environment-vars](https://docs.google.com/document/d/1XbG6hqqT1p_67Bn65CPbCfTz3Q2l6Uba)
+- **50** [flip-product-roadmap-notes](https://docs.google.com/document/d/1ChuPtThZK7LRu-yUvzuNsku0dz4oLi_-1ndZJBuxaGQ)
+- **50** rangle
+  - [notes](https://drive.google.com/drive/folders/1elO1vXTzJ2n1OdV9iMNijAParL5yaoCt)
+  - [bundle-analysis-article](https://drive.google.com/drive/folders/1Y8_cvJQawipMyq2EB9mGrFL6pojVSl0T)
+  - [gah-content-hub](https://docs.google.com/document/d/1NaegckCfVnhJ7fU9CgLs9C_qZrZGMc1ziZb5JKFGl3A)
+- **90** lululemon
+  - [horizontal-implementation-pattern-notes](https://docs.google.com/document/d/1rHP73wQQVd4GhS09bGgTw45UeMVH-ovc8fPEZvgLfFM)
+  - [notes-0](https://docs.google.com/document/d/1aXctbdotq6sp6nK_Lth40n4kQO_5xisFyUDicUPRKcc)
+  - [doc-notes-1](https://docs.google.com/document/d/1CeqW6QFapXYUpxcGBH4GOCB9PYZjunuVMltjpDWANfU)
+  - [doc-notes-2](https://docs.google.com/document/d/16gDitgch_Du1qwnYI_tQmE5nEKNhBymMg5WWVJhuHZs)
+  - [notes-1](https://docs.google.com/document/d/1D_FHMXGtTtOBL8Gbv8DdVvkMtWwLITVjfWZmzN1z7rg)
+  - [q1-demo-notes](https://docs.google.com/document/d/1i_eletjSy_XHffUBh66ndD4pcEs7EGepx-n6zvfibGU)
+- misc
+  [lll-&-flip-notes-0](https://docs.google.com/document/d/1RYT4rUmV9DH-A0AGrCpTG76rXcufCTSOBSYnqKBS5xg)
+- **90** avaya
+  - [notes-0](https://docs.google.com/document/d/1isUxSYUeAF1dfh-ptjhpAMnf0igKB10nna2mIZ-r-hE)
+  - [doc-0](https://docs.google.com/document/d/1b6KiGpTPIoJmTTQghABXv2AWNq1BXTGxm3Cr7xdO7Qk)
+  - [notes-1](https://docs.google.com/document/d/15L6Nl3gyEpCDzdaSk5IOxFFMcTajW3SYNQaXn8qkH1k)
+  - [notes-2](https://docs.google.com/document/d/1ppTT9HZzd6eY4fwSjrF_16K5lSjJ6cOnTLPLRGRizpU)
+  - [release-notes](https://docs.google.com/document/d/1pSqgycjjO5iuFMLEnqdPG_bxctkwiUOppZT1d2ZnIfk)
+  - [socket-notes](https://docs.google.com/document/d/1zjNa1bj6_4v4oE-H_t8SVQsL8LsmV7lmpcEhUg9P0HE)
+  - [unified-sockets-notes](https://docs.google.com/document/d/18-xALU53KO7ooUN4oiiwWt0Ajf1qlmbge30_8ejNvck)
+  - [uwf-react-native-project-notes](https://docs.google.com/document/d/1CJGMP5PAUgW3sBQRHvVfHwa_21oVYo0yS8bqVre8G_4)
+- **50** high-powered-mern (during vaco/avaya)
+  - [notes-0](https://docs.google.com/document/d/1TI3TpeWB0H47a22mV_D1zyyelqed4BSw1x6GbxW6E8E)
+  - [slides](https://docs.google.com/presentation/d/1y0Jv6PfsgpIAWUcE07A4aEaJAOtAXxgyDSC426JwM2w)
+- **80** avanade
+  - client-mcp 
+    - "high performance angular" presentation
+      - [notes](https://docs.google.com/document/d/1jiZ2Niup_xtSyedeRcBDbnyfk8fUMh6wWxNvcAnC0iI)
+      - [slides](https://docs.google.com/presentation/d/12LCrjrr4NaMMbuaWMbAnlLGIUt3uqV4f)
+    - [performance-recording-0](https://drive.google.com/drive/folders/1elO1vXTzJ2n1OdV9iMNijAParL5yaoCt)
+    - [perf-notes](https://docs.google.com/document/d/19htH8-PMMvtlJtuzLNLyrUQxOMlV4Q1cqvBhnAd4AaI)
+    - [tech-notes-doc](https://docs.google.com/document/d/14IGwnOuUe6bdgFiNKgWYHB-KsJqthy6LIm1lUAGNUEc)
+  - avanade
+    - [react-workshop](https://docs.google.com/presentation/d/1JnvssYQv_3EZEilTlzOk1RP3szpFnqYl-aa5TLKcz10)
+- **15** [firstdate-notes](https://docs.google.com/document/d/1MjuEdje7owZfTRkqJ5k4X25YPu1ls5bZ1RuJPaYlf_o)
+- rangle-old
+  - [rangle-weekly](https://drive.google.com/drive/folders/1elO1vXTzJ2n1OdV9iMNijAParL5yaoCt)
+  - [augury-regression-notes](https://docs.google.com/document/d/192meRMPNs9BODSOhOfWtCQrZlO2DM9a9tcad_POpUnk)
