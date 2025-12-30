@@ -1,3 +1,7 @@
+---
+title: vaco.cv.gen.md
+---
+
 ### Vaco *(June 2020 – Nov 2021)* **[1 year, 6 months]**  
 - *Director of Technical Solution Delivery* *(Nov 2020 – Nov 2021)*  
 - *Technical Lead* *(June 2020 – Nov 2020)*
