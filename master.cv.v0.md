@@ -113,6 +113,7 @@ The outcome was restored delivery confidence for the enterprise client, clearer 
 * improved ui smoothness of ui hero/branding component that took images and cut them into configured geometric shapes. we used this for our website, and a client project where they liked our website look. previously this was done using a javascript computation that didnt resize smoothly, requiring a render constantly to keep updated, listening to media queries. i updated it to utilize css cutting via svg masked paths, so we could easily export the shapes as svg from figma and upload them into the CMS (sanity.io) config which the component received via our design-system integration framework layer, as we tried to always do where possible, so that our design systems where flexibly customizable on the fly via CMS. the component could be safely memoized, as it was now stateless and fully smooth as everything was rendered as css. we could even animate the shapes images using svg animation attributes.
 
 ### lululemon
+* engineering lead
 * 2021/11 - 2022/11
 * Built, deployed, and monitored horizontal featureset to support a loyalty initiative onto a large React/Node application distributed across multiple repositories and orchestrated via Webpack federated modules system
 * architected new repository for the loyalty engineering team, which had to bring loyalty features horizontally to the whole application, in checkout, product pages, search pages, etc. these were microfrontend repos managed by different teams, whos repos we would have to make PRs for to import our library (which were safe, error-bounded, self-contained components with their own sentry events tracking, google analytics hits, and feature flagging which our team controlled) and mount our components onto their pages. in order to do our own development and produce demos, our monorepo packages included git submodules of the host microfrontend repos. this way we could import our final library directly using a live development build of the library package, and we could predict how peer dependencies and bundles of the target hosts would be impacted when our library was added.
@@ -131,12 +132,13 @@ The outcome was restored delivery confidence for the enterprise client, clearer 
 
 ### avanade
 * 2018/10 - 2020/06
-* advanced react workshop
+* roles: senior software consultant -> technical lead
 * Technologies: Angular, typescript, sql-server, azure, mocha, node, jest, microservices, aws, graphql, net, docker,enkins, redis,openshift, mongo,selenium
 * Led agile delivery teams (4-6 developers, 2 QA, 1 Scrum Master) in technical planning and implementation, providing guidance and support, handling technical escalations, and converting requirements into scalable technical solutions that fit client timelines and expectations.
 * Develop horizontally-scaling (distributed) NodeJS microservices to serve as backend for the Telus MyWifi app, which interoperates with a number of downstream systems and devices to allow users to configure and monitor their home WiFi.
 * Audit performance, discuss findings and solution proposals with client architecture leads, and undertake improvements to core libraries for the Mortgage * * Cadence Platform, an enterprise fintech application used by the largest mortgage lenders in North America.
 * Designed and delivered in-depth multi-day training programs for client organizations on the subject of performance profiling and optimization of web apps, using modern client-side JS frameworks (primarily Angular and React).
+#### advanced react workshop
 #### telus digital 
 #### mortgage cadence platform (accenture)
 * large angular application with many independent teams contributing. i was asked to analyze poor responsiveness issues in pages with large grids or animations, jankiness. rearchitected grid components to use a unidirectional state cycle, and separated them into 2 separate components, an orchestrator/state-machine smart stateful wrapper api surface and an internal OnPush UI renderer with optimization logic in its attribute setters to minimize change detection frequency and cost. also identified numerous cases of intervallic javascript activity that could be converted into css code in the case of visual animations, or alternatively executed "outside of angular". used performance flamegraphs with ui snapshots to demonstrate radical responsiveness improvements.
