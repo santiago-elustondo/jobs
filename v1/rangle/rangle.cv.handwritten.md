@@ -1,0 +1,25 @@
+---
+tite: rangle.cv.handwritten.md
+---
+
+### Rangle.io *(Nov 2022 – Dec 2023)*  
+- *Technical Director - DevEx Lead* *(July 2023 – Dec 2023)*  
+- *Technical Director* *(Nov 2022 – July 2023)*  
+* qa to dev transition cohort
+* 10? reports (jr/sr devs, qas, solutions arch). help them grow and demonstrate skills.
+* community building, presentations at meetups
+* bench work, R&D, website, internal knowledge capture/sharing (dev presentations).
+* supported, approved, supported, reviewed, promoted demos / open source / articles / community presenetations/appearences / internal knowledge dissemination (lunch & learn) / bench work (outsider documentation projects, knowledge capturing/sharing, technical mentorship) / R&D projects according to our broader offerings and directional mandates. 
+#### movebuddy
+#### momentive (aka: survey monkey)
+* led my team in bundle analysis task to significantly shrink application bundle sizing with minimal code changes and virtually no functional changes, targeting adequate tree-shaking using better import statements with slashes, library usage audits, and webpack bundler plugin settings. used bundle analyzer to investigate, and to demonstrate reduction. one of my recruits on the team used what we did together (myself teaching them) and their experience to write an article about the topic.
+* momentive with leah bundle analyzer reduce bundle size.
+* high-pressure situation, some devs were falling out (leah, thomas)
+#### get ahead
+* led agile 4-dev team as sr technical resource & point of contact to develop an embedded react client app to support online therapists in conducting their sessions and generating regulation-compliant records from the recorded meetings using ai-assisted features in-session. we had little clarity going in, with significant discrepancies between client-provided requirements and design mockups and a tight timeline, as well as technical clarity regarding ai service intended flow and delivery pipeline requirements for embedding onto client's flutter app. devs were anxious and uncertain. worked it all out with client, guided team to success & client re-hire for a larger greenfield project (adjacent content platform for therapist practitioners).
+* project was a micro-frontend React SPA delivered as CI build artifact and mounted within flutter client app (runtime host injecting serialized args, react spa internally communicates with their backend for frontend to interact with agentic generation rag engine which uses specific serialized arguments for templates, user insight requests, and generated sections. practitioner interactions and live transcript guide record creation)
+#### jet blue
+* jumped into early-stage project for established client (jet blue) to boost project confidence (both client and team) by supporting discussion/work/spikes as senior technical resource. the project mandate was creation of a modern and centrally maintainable design system to support a large suite of consumer-facing applications. the idea being to define the brand design elements in one place and achieve a consistent user experience across the client's entire user-facing web surface, which was distributed across many different product teams and technologies such as react, angular, jquery and even legacy backend-framework applications in asp.net and java springboot using native web components as the core design system. we architected a monorepo with our raw web components as our core (spiked monorepo integration and authoring using lit, stencil, bareback no-lib, etc. finally chose lit for this project, according to client feedback), with separate packages compiling react and node typescript packages. the core package was delivered not only as a private npm importable (similar to react and angular), but also via cdn, allowing very easy importing onto any project using html tags, and use via html tags. presented our learnings about the power of web-components for application-agnostic design systems for web clients at professional community event, on behalf on rangle.io, recorded and available online.
+#### endi
+#### rangle website
+* improved ui smoothness of ui hero/branding component that took images and cut them into configured geometric shapes. we used this for our website, and a client project where they liked our website look. previously this was done using a javascript computation that didnt resize smoothly, requiring a render constantly to keep updated, listening to media queries. i updated it to utilize css cutting via svg masked paths, so we could easily export the shapes as svg from figma and upload them into the CMS (sanity.io) config which the component received via our design-system integration framework layer, as we tried to always do where possible, so that our design systems where flexibly customizable on the fly via CMS. the component could be safely memoized, as it was now stateless and fully smooth as everything was rendered as css. we could even animate the shapes images using svg animation attributes.
