@@ -1,3 +1,7 @@
+---
+title: app-2/avanade.gen-1.md
+---
+
 ### Avanade
 - *Senior Software Consultant → Technical Lead*
 

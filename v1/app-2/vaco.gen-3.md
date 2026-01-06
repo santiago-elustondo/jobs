@@ -1,3 +1,7 @@
+---
+title: app-2/vaco.gen-3.md
+---
+
 ## Vaco Toronto
 
 * *Director, Technical Solution Delivery* *(Nov 2020 – Nov 2021)*

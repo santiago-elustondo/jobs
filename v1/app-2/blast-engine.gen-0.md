@@ -1,3 +1,7 @@
+---
+title: app-2/blast-engine.gen-0.md
+---
+
 ## Blast Engine (Consulting & Product Engineering)
 
 **Founder / Principal Engineer**
