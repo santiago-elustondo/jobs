@@ -52,8 +52,6 @@ Senior technical consultant engaged to **stabilize, harden, and unblock enterpri
 * Led remediation of fragile multi-tenant assumptions, implicit data coupling, and undocumented operational behavior.
 * Delivered durable APIs, service boundaries, and documentation sufficient to support hiring, onboarding, and independent operation.
 
-> Emphasis: hands-on ownership, root-cause analysis, production readiness, stakeholder communication.
-
 ---
 
 ## Rangle.io
