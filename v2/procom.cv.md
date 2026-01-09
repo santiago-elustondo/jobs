@@ -1,6 +1,6 @@
 # Santiago Elustondo
 
-**Senior Full Stack Developer (React & Node)**
+**Sr Staff Software Engineer**
 Toronto, ON · Available for On-Site / Hybrid roles
 [email](santi@blastengine.ai) · (416) 662 8602
 [linkedin](linkedin.com/in/santiago-elustondo)
@@ -73,21 +73,14 @@ Senior hands-on technical lead across multiple enterprise engagements, operating
 
 Technical lead for a **horizontally embedded React platform** integrated across checkout, PDP, search, and account flows in a high-traffic retail environment.
 
-* Architected a **React component library** designed to be safely embedded into independently owned micro-frontends.
-* Enforced strict **component isolation**:
-
-  * Typed, serializable props only
-  * Mandatory error boundaries
-  * No dependency on host state or globals
-* Built a shared runtime layer providing:
-
+* Architected a **React component library** designed to be safely embedded into independently owned micro-frontends, delivered as versioned npm package importable as **federated remote modules using Webpack**.
+* Enforced strict **component isolation**: Typed serializable props, Error boundaries, Independence of host-state
+* Architected internal runtime context layer providing:
   * Auth and feature-flag context
   * Centralized analytics and error reporting (Sentry)
 * Integrated dynamic content via **CMS-driven models**, enabling content updates without redeploying host apps.
 * Worked closely with checkout and platform teams on **auth, token handling, analytics, and security constraints**.
 * Shipped customer-facing loyalty features without destabilizing host release cycles.
-
-**Relevance:** long-lived React surfaces, authenticated users, high correctness requirements, production safety.
 
 ---
 

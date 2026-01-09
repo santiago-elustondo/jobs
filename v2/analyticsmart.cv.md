@@ -1,6 +1,6 @@
 # Santiago Elustondo
 
-**Manager, Software Engineering / Technical Lead**
+**Sr Staff Software Engineer**
 Toronto, ON · On-site / Hybrid
 santi@blastengine.io · (416) 662 8602
 [linkedin](linkedin.com/in/santiago-elustondo)
